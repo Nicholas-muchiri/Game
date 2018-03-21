@@ -1,0 +1,10 @@
+#wolf-show{
+  display: none;
+}
+.clickable{
+  cusor: pointer;
+  color: green;
+
+}
+.clickable:hover {text-decoration: underline;
+}
